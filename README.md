@@ -1,7 +1,7 @@
+<img src="./icons/waves.svg" alt="waves"/>
+
 ## **What's up 🤙, my name is [Alexander Joslin](http://www.alexanderjoslin.com/)**
 ### Welcome to my GitHub Profile.  Look around, fork a repo, and check out my some of my projects.
-
-</br> 
 
 ### Here are some of my favorites!
 [Maze Solver](https://maze-solver-js.herokuapp.com/)\
