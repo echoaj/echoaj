@@ -6,7 +6,7 @@
 
 
 ## About Me
-##### I'm a software devloper passionate about bringing real world ideas to life through use of modern tools and languages.  I have a bachelor's degree in computer science form California State University San Marcos.  I have had an internship as a "Software Engineer in test" but currently I teach students how to code in a veriety of programming languages at [The Coder School](https://www.thecoderschool.com/).
+#### I'm a software devloper passionate about bringing real world ideas to life through use of modern tools and languages.  I have a bachelor's degree in computer science form California State University San Marcos.  I have had an internship as a "Software Engineer in test" but currently I teach students how to code in a veriety of programming languages at [The Coder School](https://www.thecoderschool.com/).
 
 
 <a href="https://www.linkedin.com/in/alexander-joslin/">
