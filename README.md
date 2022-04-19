@@ -1,10 +1,9 @@
 # **What's up 🤙, my name is [Alexander Joslin](http://www.alexanderjoslin.com/)**
-### Welcome to my GitHub Profile.  Look around, fork a repo, and check out my some of my projects. 
+### Welcome to my GitHub Profile.  Look around, fork a repo, and check out my projects. Here are a few!
 
 [Maze Solver](https://maze-solver-js.herokuapp.com/) &ensp;|&ensp; [Surf Chat](https://surf-chat-js.herokuapp.com/) &ensp;|&ensp; [Quiz Forge](https://quiz-forge.herokuapp.com/)\
 [x86 Assembly Web](https://www.x86assemblycode.com/) &ensp;|&ensp; [Finance Tracker API](https://finance-tracker-js.herokuapp.com/)
 
----
 ---
 
 ## About Me
