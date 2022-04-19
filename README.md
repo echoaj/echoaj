@@ -1,10 +1,8 @@
 # **What's up 🤙, my name is [Alexander Joslin](http://www.alexanderjoslin.com/)**
 ### Welcome to my GitHub Profile.  Look around, fork a repo, and check out my some of my projects. Here are some of my favorites!
-[Maze Solver](https://maze-solver-js.herokuapp.com/)\
-[Surf Chat](https://surf-chat-js.herokuapp.com/)\
-[x86 Assembly Web](https://www.x86assemblycode.com/)\
-[Finance Tracker API](https://finance-tracker-js.herokuapp.com/)\
-[Quiz Forge](https://quiz-forge.herokuapp.com/)
+[Maze Solver](https://maze-solver-js.herokuapp.com/) &ensp;|&ensp; [Surf Chat](https://surf-chat-js.herokuapp.com/) &ensp;|&ensp; [Quiz Forge](https://quiz-forge.herokuapp.com/)\
+[x86 Assembly Web](https://www.x86assemblycode.com/) &ensp;|&ensp; [Finance Tracker API](https://finance-tracker-js.herokuapp.com/)
+
 
 
 ## About Me
@@ -12,21 +10,21 @@
 
 
 <a href="https://www.linkedin.com/in/alexander-joslin/">
-  <img src="./icons/linkedin.svg" alt="Twitter" title="GitHub" width="50" />
+  <img src="./icons/linkedin.svg" alt="Twitter" title="GitHub" width="40" />
 </a>
 &ensp;&ensp;
 <a href="https://github.com/echoaj/">
-  <img src="./icons/github.svg" alt="GitHub" title="GitHub" width="50" />
+  <img src="./icons/github.svg" alt="GitHub" title="GitHub" width="40" />
 </a>
 &ensp;&ensp;
 <a href="https://instagram.com/echoaj18/">
-  <img src="./icons/instagram.svg" alt="GitHub" title="GitHub" width="50" />
+  <img src="./icons/instagram.svg" alt="GitHub" title="GitHub" width="40" />
 </a>
 
 </br> 
 
 
-## GitHub Stats 
+## Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=echoaj)](https://github.com/echoaj)
 
