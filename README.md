@@ -11,7 +11,7 @@ I'm a software devloper passionate about bringing real world ideas to life throu
 
 
 <a href="https://www.linkedin.com/in/alexander-joslin/" target="_blank">
-  <img src="./icons/linkedin.svg" alt="Twitter" title="GitHub" width="30" />
+  <img src="./icons/linkedin.svg" alt="Twitter" title="Twitter" width="30" />
 </a>
 &ensp;&ensp;
 <a href="https://github.com/echoaj/" target="_blank">
@@ -19,7 +19,7 @@ I'm a software devloper passionate about bringing real world ideas to life throu
 </a>
 &ensp;&ensp;
 <a href="https://instagram.com/echoaj18/" target="_blank">
-  <img src="./icons/instagram.svg" alt="GitHub" title="GitHub" width="30" />
+  <img src="./icons/instagram.svg" alt="Instagram" title="Instagram" width="30" />
 </a>
 
 </br> 
