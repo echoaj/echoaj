@@ -1,14 +1,11 @@
-# What's Up 🤙! My Name is [Alexander Joslin](http://www.alexanderjoslin.com/)
-### Welcome to my GitHub Profile!  Look around, fork a repo, and check out my projects. Here are a few:
-
-[Maze Solver](https://maze-solver-js.herokuapp.com/) &ensp;|&ensp; [Surf Chat](https://surf-chat-js.herokuapp.com/) &ensp;|&ensp; [Quiz Forge](https://quiz-forge.herokuapp.com/)\
-[x86 Assembly Web](https://www.x86assemblycode.com/) &ensp;|&ensp; [Finance Tracker API](https://finance-tracker-js.herokuapp.com/)
+# Welcome 👋 my name is [Alexander Joslin](http://www.alexanderjoslin.com/)
+### Check out my GitHub Profile!  Look around, fork a repo, and view my projects. 
+**Here are a few:**&ensp; [Maze Solver](https://maze-solver-js.herokuapp.com/) &ensp;|&ensp; [Surf Chat](https://surf-chat-js.herokuapp.com/) &ensp;|&ensp; [Quiz Forge](https://quiz-forge.herokuapp.com/) &ensp;|&ensp; [x86 Assembly Website](https://www.x86assemblycode.com/) &ensp;|&ensp; [Finance Tracker API](https://finance-tracker-js.herokuapp.com/)
 
 ---
 
 ## About Me
-I'm a software devloper passionate about bringing real world ideas to life through use of modern tools and languages.  I have a bachelor's degree in computer science form California State University San Marcos.  I have had an internship as a "Software Engineer in test" but currently I teach students how to code in a veriety of programming languages at [The Coder School](https://www.thecoderschool.com/).
-
+I'm a software engineer passionate about bringing real-world ideas to life through the use of modern tools and languages.  I have a bachelor's degree in computer science from California State University San Marcos.  My professional career includes experience as a Software Engineer in Test at [Quake Global](https://www.quakeglobal.com/), a code coach at [The Coder School](https://www.thecoderschool.com/), and a Software Engineer at [Northrop Grumman](https://www.northropgrumman.com/) with a focus on DevSecOps and CyberSecurity.  I love learning and enjoy broadening my skills in different areas of computer science.
 
 <a href="https://www.linkedin.com/in/alexander-joslin/" target="_blank">
   <img src="./icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="30" />
@@ -23,7 +20,6 @@ I'm a software devloper passionate about bringing real world ideas to life throu
 </a>
 
 </br> 
-
 
 ## Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoaj&layout=compact)](https://github.com/echoaj)
